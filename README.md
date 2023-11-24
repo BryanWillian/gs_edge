@@ -1,6 +1,10 @@
-Projeto desenvolvido à Global Solution por:
-Bryan Willian Messias Barbosa (RM:551305) e 
-Guilherme Gonçalves Calil Daher (RM:98611)  para a disciplina de Edge Computing and Computer Systems do professor Airton Yassushiko Coppini Toyofuku.
+# Global Solution 02 - Edge Computing and Computer Systems
+
+## Participantes
+
+Bryan Willian Messias Barbosa (RM:551305); 
+
+Guilherme Gonçalves Calil Daher (RM:98611) 
 
  <h1 style="font-size: 2em;">Uma breve descrição do problema de saúde abordado:</h1>
 
@@ -26,6 +30,8 @@ Todos os valores escolhidos manualmente nos hardwares serão direcionados à pla
 Foram utilizados no projeto: 
 Plataformas: Wokwi e TAGO 
 Hardware: ESP32, DHT22, LCD16x2, Cabos, GND Symbol, VCC Symbol, Ultrassonic Distance Sensor 
+
+ # Links
 
 Link para a simulação do projeto na Wokwi: https://wokwi.com/projects/382120077112087553
 
