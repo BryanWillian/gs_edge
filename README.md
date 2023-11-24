@@ -11,7 +11,7 @@ O tema proposto na Global Solution deste semestre envolve o uso da tecnologia co
 Nossa solução abrange diversos quesitos, primeiramente, a fim de conscientizar e ampliar o conhecimento das pessoas, desenvolveremos um site informativo explicando detalhadamente no que se diz a respeito às DSTs. Auxiliando na informação, adicionaremos a uma das páginas do site um guia/mapa sinalizando todos os postos de saúde e linhas de metrô que garantem o acesso gratuito aos preservativos por toda grande São Paulo. Outra aba será disponibilizada para o tratamento de dúvidas e perguntas frequentes a respeito de saúde sexual, que dessa forma auxiliará numa melhora na qualidade de vida e consciência sobre o assunto. O foco principal da nossa plataforma Web é garantir uma melhora na qualidade de vida da população, mas de que jeito? Simples! Informando, conscientizando, potencializando a qualidade de vida e por fim, acabando com os estigmas tabus ainda remanescentes na sociedade. 
 
 
-#Instruções claras sobre como configurar e executar a aplicação.#
+# Instruções claras sobre como configurar e executar a aplicação.
  
 
 Na página do projeto do Wokwi, o main code estará ao lado esquerdo e os hardwares à direita.  
